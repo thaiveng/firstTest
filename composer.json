@@ -1,0 +1,14 @@
+{
+    "name": "cs3/composer",
+    "description": "this is my first project of composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "thaiveng",
+            "email": "thaiveng2@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.5"
+    }
+}
